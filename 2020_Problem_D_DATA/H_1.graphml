@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d2" for="edge" attr.name="weight" attr.type="long"/>
 <key id="d1" for="node" attr.name="y" attr.type="double"/>
 <key id="d0" for="node" attr.name="x" attr.type="double"/>
 <graph edgedefault="directed"><node id="Huskies_D1">
@@ -60,335 +61,446 @@
 </node>
 <edge source="Huskies_D1" target="Huskies_D2">
   <data key="d2">14</data>
+  <data key="d3">0.07142857142857142</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_D3">
   <data key="d2">8</data>
+  <data key="d3">0.125</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_D4">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_D5">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_F1">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_F2">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_F3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_G1">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_M1">
   <data key="d2">11</data>
+  <data key="d3">0.09090909090909091</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_M2">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_M3">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_D1" target="Huskies_M4">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D2" target="Huskies_D1">
   <data key="d2">11</data>
+  <data key="d3">0.09090909090909091</data>
 </edge>
 <edge source="Huskies_D2" target="Huskies_D3">
   <data key="d2">18</data>
+  <data key="d3">0.05555555555555555</data>
 </edge>
 <edge source="Huskies_D2" target="Huskies_F1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D2" target="Huskies_F2">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_D2" target="Huskies_G1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D2" target="Huskies_M1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D2" target="Huskies_M3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_D1">
   <data key="d2">6</data>
+  <data key="d3">0.16666666666666666</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_D2">
   <data key="d2">6</data>
+  <data key="d3">0.16666666666666666</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_D4">
   <data key="d2">9</data>
+  <data key="d3">0.1111111111111111</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_F1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_F2">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_F3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_G1">
   <data key="d2">6</data>
+  <data key="d3">0.16666666666666666</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_M1">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_M2">
   <data key="d2">5</data>
+  <data key="d3">0.2</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_M3">
   <data key="d2">6</data>
+  <data key="d3">0.16666666666666666</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_M4">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D3" target="Huskies_M5">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_D2">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_D3">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_F1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_F2">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_F3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_M1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_M2">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_M3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_D4" target="Huskies_M4">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D5" target="Huskies_D1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D5" target="Huskies_D5">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_D5" target="Huskies_F1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_D5" target="Huskies_F2">
   <data key="d2">8</data>
+  <data key="d3">0.125</data>
 </edge>
 <edge source="Huskies_D5" target="Huskies_M1">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_D5" target="Huskies_M3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F1" target="Huskies_D1">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_F1" target="Huskies_D5">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F1" target="Huskies_F2">
   <data key="d2">5</data>
+  <data key="d3">0.2</data>
 </edge>
 <edge source="Huskies_F1" target="Huskies_F3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F1" target="Huskies_M1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F1" target="Huskies_M5">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_D1">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_D3">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_D4">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_D5">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_F1">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_F3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_M1">
   <data key="d2">14</data>
+  <data key="d3">0.07142857142857142</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_M3">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_M4">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_F2" target="Huskies_M5">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F3" target="Huskies_D2">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F3" target="Huskies_D3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F3" target="Huskies_F1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F3" target="Huskies_F2">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_F3" target="Huskies_M2">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_F3" target="Huskies_M3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_G1" target="Huskies_D1">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_G1" target="Huskies_D3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_G1" target="Huskies_D5">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_G1" target="Huskies_F1">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_G1" target="Huskies_G1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_G1" target="Huskies_M1">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_D1">
   <data key="d2">13</data>
+  <data key="d3">0.07692307692307693</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_D2">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_D4">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_D5">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_F1">
   <data key="d2">5</data>
+  <data key="d3">0.2</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_F2">
   <data key="d2">10</data>
+  <data key="d3">0.1</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_F3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_G1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_M1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_M2">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_M3">
   <data key="d2">8</data>
+  <data key="d3">0.125</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_M4">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M1" target="Huskies_M5">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_D2">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_D3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_D4">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_F1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_F3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_G1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_M1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M2" target="Huskies_M3">
   <data key="d2">7</data>
+  <data key="d3">0.14285714285714285</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_D1">
   <data key="d2">6</data>
+  <data key="d3">0.16666666666666666</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_D2">
   <data key="d2">3</data>
+  <data key="d3">0.3333333333333333</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_D3">
   <data key="d2">8</data>
+  <data key="d3">0.125</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_D4">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_D5">
   <data key="d2">6</data>
+  <data key="d3">0.16666666666666666</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_F2">
   <data key="d2">6</data>
+  <data key="d3">0.16666666666666666</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_F3">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_M1">
   <data key="d2">9</data>
+  <data key="d3">0.1111111111111111</data>
 </edge>
 <edge source="Huskies_M3" target="Huskies_M2">
   <data key="d2">4</data>
+  <data key="d3">0.25</data>
 </edge>
 <edge source="Huskies_M4" target="Huskies_D4">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M4" target="Huskies_F2">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M4" target="Huskies_F3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M4" target="Huskies_M1">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 <edge source="Huskies_M4" target="Huskies_M3">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M5" target="Huskies_F2">
   <data key="d2">2</data>
+  <data key="d3">0.5</data>
 </edge>
 <edge source="Huskies_M5" target="Huskies_M4">
   <data key="d2">1</data>
+  <data key="d3">1.0</data>
 </edge>
 </graph></graphml>
